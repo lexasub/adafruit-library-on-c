@@ -9,3 +9,5 @@ writed with classes. </br>
 it's bad effecienty for avr controllers.</br>
 I'm tried rewrite it, but for my atmega8 giant size for code.</br>
 May be exists people, when help me do faster & do smaller this code.</br>
+<b>Example:</b>
+avr-g++ -mmcu=atmega8 testshapes_32x64.cpp
